@@ -1,1 +1,14 @@
-hello
+Edge cases list:
+
+  - No internet
+  - No battery
+  - No connection to server
+  - No connection to aux
+  - No connection to usb
+  - Curroption of files (usb, media / server)
+  - Raise volume while on max
+  - Lower volume while on min
+  - Press play while device is already playing
+  - Press stop while device is not playing
+  - Press pause while device is already in pause mode
+  - 
